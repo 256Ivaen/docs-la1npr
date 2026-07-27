@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-e463c1.indcuan.sbs/sitemap.xml
